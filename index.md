@@ -28,6 +28,10 @@ Links from slides
 Accounts setting links
 * https://accounts.microsoft.com
 * https://accounts.microsoft.com
+
+### Prompt Engineering References
+* [Prompt Engineering Guide:] (Prompt%20engineering.pdf)
+* [Prompt Engineering Playbook-Govtech Beta:] (Prompt%20engineering.pdf)
   
 ---
 # Topic 2
