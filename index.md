@@ -30,8 +30,8 @@ Accounts setting links
 * https://accounts.microsoft.com
 
 ### Prompt Engineering References
-[Prompt Engineering Guide](Prompt%20engineering.pdf)
-[Prompt Engineering Playbook-Govtech Beta](Prompt%20engineering.pdf)
+* [Prompt Engineering Guide](Prompt%20engineering.pdf)<br>
+* [Prompt Engineering Playbook-Govtech Beta](Prompt%20engineering.pdf)<br>
   
 ---
 # Topic 2
