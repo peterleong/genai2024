@@ -31,7 +31,7 @@ Accounts setting links
 
 ### Prompt Engineering References
 * [Prompt Engineering Guide](Prompt%20engineering.pdf)<br>
-* [Prompt Engineering Playbook-Govtech Beta]([Prompt%20engineering.pdf](Prompt%20Engineering%20Playbook%20(Beta).pdf)<br>
+* [Prompt Engineering Playbook-Govtech Beta]([Prompt%20engineering.pdf](Prompt%20Engineering%20Playbook%20\(Beta\).pdf)<br>
   
 ---
 # Topic 2
